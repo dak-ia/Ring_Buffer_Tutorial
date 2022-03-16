@@ -1,3 +1,4 @@
+/*! Ring_Buffer_Tutorial.cpp ver1.0 | MIT License | https://github.com/dak-ia/Ring_Buffer_Tutorial/blob/main/LICENSE*/
 #define N 3//Specify the size of the ring buffer
 #include<stdio.h>
 int c = 0;
